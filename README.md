@@ -1,2 +1,2 @@
-# Fiftythousandstarts-github.io
+# Fiftythousandstarts.github.io
 blog
